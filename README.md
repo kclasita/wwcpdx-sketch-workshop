@@ -7,7 +7,7 @@ This one hour class will give you a basic introduction to the functionality of [
 ## Before Class
 [Download and install Sketch](https://www.sketchapp.com/) It is free for the first 30 days
 
-ADD LINK Grab the starter file. There are a few added things to make this process go smoother
+[Download the starter file](https://github.com/kclasita/wwcpdx-sketch-workshop/blob/master/sketch-docs/wwcpdx-sketch-start-exercise.sketch) There are a few added things to make this process go smoother
 
 ## During Class
 The class will go through each step of the project together. Here is a high-level agenda of what will be covered:
@@ -18,7 +18,6 @@ The class will go through each step of the project together. Here is a high-leve
 4. Intro the Sketch interface
 5. Setup
 6. Symbols
-7. Navigation
 8. Typography
 9. Images
 10. Export
