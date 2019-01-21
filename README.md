@@ -1,5 +1,5 @@
 # Women Who Code Portland Sketch Workshop
-A resource for the Women Who Code Portland Intro to Sketch class
+A resource for the [Women Who Code Portland Intro to Sketch class](https://www.meetup.com/Women-Who-Code-Portland/events/242928991/)
 
 ## Overview
 This one hour class will give you a basic introduction to the functionality of [Sketch](https://www.sketchapp.com/), a graphics tool used to design user interfaces. The class is meant to be a brief introduction to some of the core and most useful functionality of Sketch. 
